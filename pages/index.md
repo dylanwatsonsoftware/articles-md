@@ -4,6 +4,10 @@ description: textbase.js is a static site generator for developers to build near
 created: 1597455375982
 ---
 
+# Dylan's Articles
+- [DevOps Mindset](/articles/devops-mindset)
+- [DevOps Coding Practices](/articles/devops-coding-practices)
+
 # textbase.js 🧬
 
 ## textbase.js is a static site generator for `developers` to build near perfect static website _painlessly fast_.
