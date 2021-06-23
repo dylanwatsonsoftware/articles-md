@@ -1,6 +1,6 @@
 # Make your Angular tests 1000% faster by switching from Karma to Jest
 
-!https://res.cloudinary.com/practicaldev/image/fetch/s--7b456hOH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/9516njx8ysv4tzgu3g5r.jpg!
+![Fast tests](https://res.cloudinary.com/practicaldev/image/fetch/s--7b456hOH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/9516njx8ysv4tzgu3g5r.jpg)
 
 It sounds sensationalist but it's true. 
 
